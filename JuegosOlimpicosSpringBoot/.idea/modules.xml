@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JuegosOlimpicosSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/JuegosOlimpicosSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juegosOlimpicos/juegosOlimpicos.iml" filepath="$PROJECT_DIR$/juegosOlimpicos/juegosOlimpicos.iml" />
+    </modules>
+  </component>
+</project>
